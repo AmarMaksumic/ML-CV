@@ -15,6 +15,6 @@
 <ul>
   <li>COCO dataset: <a href='https://app.roboflow.com/ds/KQOksETAbP?key=au2OToVZUd'>Roboflow</a></li>
   <li>TFRecord dataset: <a href='https://app.roboflow.com/ds/vMAuXS5Fps?key=wTtLqjzKvf'>Roboflow</a></li>
-  <li>Train SSDMobileNet v2 model: <a href='tinyurl.com/roboflowtf2mod'>Google Colab NB</a></li>
-  <li>Convert to TFLite: <a href='tinyurl.com/2601tfliteconvert'>Google Colab NB</a></li>
+  <li>Train SSDMobileNet v2 model: <a href='https://colab.research.google.com/drive/1zdoX-bkXDSk99yQJUpRPQ6P8TEPFaQW9?usp=sharing'>Google Colab NB</a></li>
+  <li>Convert to TFLite: <a href='https://colab.research.google.com/drive/1GHuImxzt9npB0Ca4uF4Qdv9MIM5GmnMv?usp=sharing'>Google Colab NB</a></li>
 </ul>
